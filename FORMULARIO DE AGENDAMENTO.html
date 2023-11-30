@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br"/>
+<head>
+	<meta charset="UTF-8"/>
+	<title>Agendamento</title>
+	<link rel="stylesheet" type="text/css" href="estilo.css"/>
+
+<script language="javascript" src="../funcoes.js"></script>
+</head>
+<body>
+
+<div id="interface"> 
+	<header id="cabecalho">
+		<hgroup>
+			<h1>AGENDA FÁCIL  DO NÚCLEO DE APOIO CONTÁBIL E FISCAL </h1>
+		</hgroup>
+</header>
+
+<form method="post" id="fContato" action= "mailto:araa1995@hotmail.com" oninput= "calc_total();">
+<fieldset id="agendamento"><legend>identificação do usuário</legend>
+	<h2 id="cadastro">AGENDE UM DIA E HORA</h2>
+	<p>nome <input type="text" name="tNome" id="cNome" size="20" maxlength="30" placeholder= "nome completo"/></p>
+	<p>data <input type="datetime-local" name="tSenha" id="cSenha" size="20" maxlength="30" placeholder="senha"/></p>
+	<p>horário <input type="time" name="tSenha" id="cSenha" size="20" maxlength="30" placeholder="senha"/></p>
+
+</fieldset>
+
+<a id="entrar" href="CONFIRMACAO.html"><input id="enviar" type= "button" value= "enviar"/></a>
+<a id="entrar" href="FORMULARIO DE AGENDAMENTO.html"><input id="limpar" type= "button" value= "limpar"/></a>
+
+</form>
+
+<footer id="rodape">
+<p> Copyright $copy; 2023 - by Jonathas Oliveira e Vitória Miranda. </br> 
+</footer>
+</div>
+</body>
+</html>
