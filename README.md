@@ -7,7 +7,7 @@ Nome dos integrantes e matrícula:
 Situação-Problema #1 - AgendaFácil NAF
 
 ### ✔ DESCRIÇÃO SUCINTA DO MVP:
-Esse projeto foi desenvolvido para o curso de MVP, como projeto final da disciplina de Minimum Viable Product. O objetivo do trabalho consiste em criar uma aplicação Front-End de um software capaz de realizar agendamentos de dia e horário. Com esse agendamento, o NAF (NÚCLEO DE APOIO A RECEITA FEDERAL) terá a facilitação de agendamento para obter assistência com declarações de Imposto de Renda e outros serviços. Por meio desse código, qualquer empresa que precise atender ao público poderá facilitar o seu trabalho, na medida em que os próprios clientes fariam o seu agendamento online de forma fácil e segura, efitando, assim, a necessidade de atarefar os secretários da empresa com esse trabalho. 
+Esse projeto foi desenvolvido para o curso de MVP, como projeto final da disciplina de Minimum Viable Product. O objetivo do trabalho consiste em criar uma aplicação Front-End de um software capaz de realizar agendamentos de dia e horário. Com esse agendamento, o NAF (NÚCLEO DE APOIO A RECEITA FEDERAL) terá a facilitação de agendamento para prestar assistência com declarações de Imposto de Renda e outros serviços. Por meio desse código, qualquer empresa que precise atender ao público poderá facilitar o seu trabalho, na medida em que os próprios clientes fariam o seu agendamento online de forma fácil e segura, efitando, assim, a necessidade de atarefar os secretários da empresa com esse trabalho. 
 
 ### ✔ Instruções para executar o MVP localmente:
 A primeira página do Código apresenta a parte de cadastro (caso o usuário do site ainda não o tenha) e login (caso o usuário já tenha cadastro).
