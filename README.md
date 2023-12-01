@@ -1,6 +1,8 @@
 ### ✔ Dados dos integrantes da equipe.
 Nome dos integrantes e matrícula:
+
 1- Vitória Miranda da Silva, matrícula:06007409.
+
 2- Jonathas Barbosa Oliveira, matrícula:06007662. 
 
 ### ✔ Escolha da situação-problema.
